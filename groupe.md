@@ -1,3 +1,5 @@
+Jérémy Moinet / Bastien Joly
+
 Partie pratique :
 Un client Node (un index.js) qui est en lien avec un serveur
 
