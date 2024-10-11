@@ -1,0 +1,73 @@
+[
+    {
+        "login": "johndoe",
+        "password": "Johndoe2024!",
+        "hashed_password": "$2b$12$jjY4uJclq4mKvDe06H1jWO4XEjdZpQLLbNPdAr6yho1Eeffmm3iOe",
+        "products": [
+            {
+                "name": "Smartphone",
+                "price": 799
+            },
+            {
+                "name": "Laptop",
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "login": "janedoe",
+        "password": "JaneD#123",
+        "hashed_password": "$2b$12$hFOdyARBBFyE5OeBzY1LeOdnK7lJzsnMlOhu7XOl6zyYVSnpFQFTW",
+        "products": [
+            {
+                "name": "Headphones",
+                "price": 150
+            }
+        ]
+    },
+    {
+        "login": "alexsmith",
+        "password": "Alex_Smith99",
+        "hashed_password": "$2b$12$cRsdmLRbryaJoIBhFWiesu.IFDajZJUmD5ZCCxUelB5qUpmTbY2kO",
+        "products": [
+            {
+                "name": "Tablet",
+                "price": 300
+            },
+            {
+                "name": "Smartwatch",
+                "price": 250
+            },
+            {
+                "name": "Keyboard",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "login": "sarahconnor",
+        "password": "T3rminator#1",
+        "hashed_password": "$2b$12$Jpui61Bt7eviEGFeiQJmlecsptILAricbLaiP2IguplthrbfsJ.HS",
+        "products": [
+            {
+                "name": "Gaming Console",
+                "price": 499
+            }
+        ]
+    },
+    {
+        "login": "emilybrown",
+        "password": "Emily!@Brown",
+        "hashed_password": "$2b$12$Fl52uLBdXhjvK7/xymc16eXVh0XNY9iyuhV.EgSubjm5WwcMVMv7S",
+        "products": [
+            {
+                "name": "Monitor",
+                "price": 200
+            },
+            {
+                "name": "Printer",
+                "price": 150
+            }
+        ]
+    }
+]
